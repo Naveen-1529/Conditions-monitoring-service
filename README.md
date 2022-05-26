@@ -21,6 +21,14 @@ Kindly follow below instructions for setting up your project locally. To get a l
     https://github.com/Toorak-Capital/conditions-monitoring-service.git
 ```
 
+### Environment set-up
+
+- AWS_ACCESS_KEY_ID
+- AWS_DEFAULT_REGION
+- AWS_SECRET_ACCESS_KEY
+- BUCKET_NAME
+- TOPIC_ARN
+
 ### Steps to be followed after cloning
 
 - Change directory into your newly created project.
